@@ -1,4 +1,4 @@
-package cn.qihoo;
+package cn.tiany;
 
 import java.io.IOException;
 import java.io.File;
@@ -99,7 +99,8 @@ import org.apache.log4j.spi.LoggingEvent;
    as the protocol specificaion of a URL which is probably not what
    you want.
    @author Eirik Lygre
-   @author Ceki G&uuml;lc&uuml;*/
+   @author Ceki G&uuml;lc&uuml
+   @modify tiany; */
 public class NumberLimitedDailyRollingFileAppender extends FileAppender {
 
   // The code assumes that the following constants are in a increasing

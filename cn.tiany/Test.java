@@ -1,4 +1,4 @@
-package cn.qihoo;
+package cn.tiany;
 import org.apache.log4j.Logger;
 import java.util.Timer;
 import java.util.TimerTask;
